@@ -1,7 +1,7 @@
-magento-delete-all-products-by-sql
+Magento - delete all products by SQL
 ==================================
 
-Here is the Sql code to delete all products in Magento in a second. 
+Here is the SQL code to delete all products in Magento in a second. 
 You don’t have to delete the products through Magento admin. 
 Use this in your Magento development system.
 
